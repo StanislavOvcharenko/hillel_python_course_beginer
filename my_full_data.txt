@@ -1,0 +1,1 @@
+{'usd': 37.8, 'uah': 37.0, 'available_uah': 50000.0, 'available_usd': 20000.0}
